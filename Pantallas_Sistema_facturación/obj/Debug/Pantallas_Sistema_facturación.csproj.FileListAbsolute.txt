@@ -1,0 +1,5 @@
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\Pantallas_Sistema_facturación\Pantallas_Sistema_facturación\obj\Debug\Pantallas_Sistema_facturación.csproj.AssemblyReference.cache
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\Pantallas_Sistema_facturación\Pantallas_Sistema_facturación\obj\Debug\Pantallas_Sistema_facturacion.Program.resources
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\Pantallas_Sistema_facturación\Pantallas_Sistema_facturación\obj\Debug\Pantallas_Sistema_facturación.Properties.Resources.resources
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\Pantallas_Sistema_facturación\Pantallas_Sistema_facturación\obj\Debug\Pantallas_Sistema_facturación.csproj.GenerateResource.cache
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\Pantallas_Sistema_facturación\Pantallas_Sistema_facturación\obj\Debug\Pantallas_Sistema_facturación.csproj.CoreCompileInputs.cache
